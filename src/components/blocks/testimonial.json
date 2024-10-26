@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_blocks_testimonials",
+  "info": {
+    "displayName": "testimonial",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "photo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}
